@@ -30,3 +30,9 @@ Typical contents may include:
 - `report/`: Final report
 
 ---
+
+Team Member
+- Jinghan/Tracy Cui
+- Yuki Li
+- Yang Lu
+- Xin Wei
